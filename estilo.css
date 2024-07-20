@@ -1,0 +1,55 @@
+#fila{
+    margin: 20px 180px 20px 180px;
+    
+}
+
+.articulo{
+    justify-content: center;
+}
+
+.card{
+    background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+.article-list {
+    max-width: 600px;
+    width: 100%;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.article-list h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.article-list table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#carrusel{
+    justify-content: center;
+    align-items: center;
+    width: 50% auto;
+}
+
+#cuerpotres{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#logos{
+    margin: 10px 650px 10px 650px;
+}
